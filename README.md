@@ -6,3 +6,6 @@ int x = 2
 add one line
 add another line
 add third line
+
+add new line
+add another new line
