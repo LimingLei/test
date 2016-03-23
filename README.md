@@ -11,3 +11,5 @@ add new line
 add another new line
 
 int y = 2
+
+int y = 3
