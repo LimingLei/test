@@ -13,3 +13,7 @@ add another new line
 int y = 2
 
 int y = 3
+
+int y = 5
+
+int y = 6
