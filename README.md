@@ -19,4 +19,4 @@ int y = 5
 int y = 6
 
 
-int x = z
+int x = y
